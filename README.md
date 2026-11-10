@@ -306,9 +306,9 @@ This laboratory is intended strictly for education purposes only.
 # 👤 Author
 
 **Moses Makungu**\
-Cybersecurity Professional B082
+Cybersecurity Professional B084
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+LinkedIn: [www.linkedin.com/in/moses-makungu-366b1038b](www.linkedin.com/in/moses-makungu-366b1038b)
 
 ---
 
