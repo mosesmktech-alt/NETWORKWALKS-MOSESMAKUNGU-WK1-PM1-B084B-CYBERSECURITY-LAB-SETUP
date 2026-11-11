@@ -308,7 +308,7 @@ This laboratory is intended strictly for education purposes only.
 **Moses Makungu**\
 Cybersecurity Professional B084
 
-LinkedIn: [www.linkedin.com/in/moses-makungu-366b1038b](www.linkedin.com/in/moses-makungu-366b1038b)
+LinkedIn: [www.linkedin.com/in/moses-makungu-366b1038b](www.linkedin.com/in/moses-makungu-366b1038b)(https://www.linkedin.com/in/moses-makungu-366b1038b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
