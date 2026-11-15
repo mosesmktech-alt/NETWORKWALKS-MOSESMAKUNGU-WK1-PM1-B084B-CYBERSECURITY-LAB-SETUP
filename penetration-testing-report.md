@@ -145,7 +145,7 @@ The results provided additional information about the web application and expose
 
 **Evidence:**
 
-![Curl](curl.png)
+![Curl](-curl.png)
 
 #### 4.1.5 Wafw00f
 
@@ -159,7 +159,7 @@ The observed result identified:
 
 **Evidence:**
 
-![Wafwoof](wafwoof.png)
+![wafwoof](wafwoof.png)
 
 #### 4.1.6 DNSRecon
 
