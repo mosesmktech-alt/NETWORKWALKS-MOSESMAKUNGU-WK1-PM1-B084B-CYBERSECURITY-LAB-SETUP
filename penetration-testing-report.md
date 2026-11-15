@@ -117,7 +117,7 @@ The results identified:
 
 **Evidence:**
 
-![WhatWeb Results](screenshots/whatweb.png)
+![WhatWeb](whatweb.png)
 
 #### 4.1.3 Nslookup
 
@@ -131,7 +131,7 @@ The observed result identified:
 
 **Evidence:**
 
-![Nslookup Results](screenshots/nslookup.png)
+![Nslookup](nslookup.png)
 
 #### 4.1.4 Curl
 
@@ -145,7 +145,7 @@ The results provided additional information about the web application and expose
 
 **Evidence:**
 
-![Curl Results](screenshots/curl.png)
+![Curl](curl.png)
 
 #### 4.1.5 Wafw00f
 
@@ -159,7 +159,7 @@ The observed result identified:
 
 **Evidence:**
 
-![Wafw00f Results](screenshots/wafw00f.png)
+![Wafw00f](wafw00f.png)
 
 #### 4.1.6 DNSRecon
 
@@ -178,7 +178,7 @@ The results provided information relating to:
 
 **Evidence:**
 
-![DNSRecon Results](screenshots/dnsrecon.png)
+![DNSRecon](dnsrecon.png)
 
 ---
 
@@ -221,7 +221,7 @@ After completing the scan, I opened the Topology section in Zenmap, enabled the 
 
 **Evidence:**
 
-![Zenmap Network Scan](screenshots/zenmap-scan.png)
+![Zenmap](zenmap-scan.png)
 
 **Network Topology:**
 
