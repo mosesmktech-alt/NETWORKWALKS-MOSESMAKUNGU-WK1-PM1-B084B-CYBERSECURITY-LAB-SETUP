@@ -2,7 +2,6 @@
 ## FOOTPRINTING & NETWORK SCANNING PHASES
 
 **W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS**
--curl.png
 ---
 
 ## REPORT INFORMATION
@@ -102,7 +101,7 @@ The results provided information relating to domain registration and hosting inf
 
 **Evidence:**
 
-![WHOIS Results](screenshots/whois.png)
+![WHOIS Lookup](whois.png)
 
 #### 4.1.2 WhatWeb
 
