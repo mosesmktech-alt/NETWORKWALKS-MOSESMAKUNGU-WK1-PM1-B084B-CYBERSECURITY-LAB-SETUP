@@ -159,7 +159,7 @@ The observed result identified:
 
 **Evidence:**
 
-![Wafw00f](wafw00f.png)
+![Wafwoof](wafwoof.png)
 
 #### 4.1.6 DNSRecon
 
@@ -344,13 +344,13 @@ The following evidence directory contains screenshots and supporting documents c
 ### Screenshot Gallery
 
 #### WHOIS Results
-![WHOIS Evidence](screenshots/whois.png)
+![WHOIS](whois.png)
 
 #### WhatWeb Results
-![WhatWeb Evidence](screenshots/whatweb.png)
+![WhatWeb](whatweb.png)
 
 #### DNSRecon Results
-![DNSRecon Evidence](screenshots/dnsrecon.png)
+![DNSRecon](dnsrecon.png)
 
 #### Zenmap Network Scan
 ![Zenmap Evidence](screenshots/zenmap-scan.png)
