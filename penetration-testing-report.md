@@ -10,8 +10,8 @@
 |---|---|
 | **Pentester Name** | Moses Makungu |
 | **Professional Title** | Cybersecurity Professional |
-| **Program / Batch** | B082 - Networkwalks |
-| **Date** | 17 August 2026 |
+| **Program / Batch** | B084 - Networkwalks |
+| **Date** | 16 November 2026 |
 | **Modules Completed** | W2-PM1 (Multiple Kali Tools), W2-PM5 (Zenmap Scanning) |
 | **Client / Target** | Networkwalks and my own local LAN network |
 | **Permission Secured?** | Yes - subject to documented authorization and approved scope |
