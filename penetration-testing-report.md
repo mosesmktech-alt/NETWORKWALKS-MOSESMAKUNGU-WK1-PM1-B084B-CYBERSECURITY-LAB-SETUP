@@ -221,7 +221,7 @@ After completing the scan, I opened the Topology section in Zenmap, enabled the 
 
 **Evidence:**
 
-![Zenmap](zenmap-scan.png)
+![Zenmap](zenmap.png)
 
 **Network Topology:**
 
