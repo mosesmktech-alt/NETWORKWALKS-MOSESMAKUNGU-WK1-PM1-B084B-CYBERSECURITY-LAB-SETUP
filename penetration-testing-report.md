@@ -365,7 +365,7 @@ The following evidence directory contains screenshots and supporting documents c
 Cybersecurity Professional  
 Program / Batch: B084 - Networkwalks
 
-**LinkedIn:** [Add your LinkedIn profile URL here](https://www.linkedin.com/)
+**LinkedIn:** [Add your LinkedIn profile URL here](https://lnkd.in/p/dTqSM2ta)
 
 ---
 
@@ -384,4 +384,5 @@ Program / Batch: B084 - Networkwalks
 ---
 
 **END OF REPORT**
+
 
