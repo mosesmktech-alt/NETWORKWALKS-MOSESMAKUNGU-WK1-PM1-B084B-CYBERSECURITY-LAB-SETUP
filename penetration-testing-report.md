@@ -353,7 +353,7 @@ The following evidence directory contains screenshots and supporting documents c
 ![DNSRecon](dnsrecon.png)
 
 #### Zenmap Network Scan
-![Zenmap Evidence](screenshots/zenmap-scan.png)
+![Zenmap](zenmap.png)
 
 **Evidence Note:** Replace the image placeholders with your actual screenshots before publishing the repository. GitHub will display images when the referenced files exist at the specified paths.
 
