@@ -225,7 +225,7 @@ After completing the scan, I opened the Topology section in Zenmap, enabled the 
 
 **Network Topology:**
 
-[View Network Topology PDF](topology/network-topology.pdf)
+[network topology](networktopology.pdf)
 
 ---
 
